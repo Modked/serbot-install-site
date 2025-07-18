@@ -1,4 +1,4 @@
-import './globals.css'
+import '../styles/globals.css' // إذا الملف داخل styles
 
 export const metadata = {
   title: 'تنصيب بوت فرعي',
